@@ -84,7 +84,8 @@ public class ResultExport {
 	
 	public static void printFormat() {
 		System.out.println("========== Beta Tested ==========");
-		System.out.println("안녕?????????????");
+		System.out.println("");
+		System.out.println("");
 		printCase();
 	}
 
